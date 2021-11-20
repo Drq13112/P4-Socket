@@ -1,0 +1,5 @@
+C:/Users/david/OneDrive/Documentos/4 curso/1 cuatri/Control y comunicaciones/P4/P4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/david/OneDrive/Documentos/4 curso/1 cuatri/Control y comunicaciones/P4/P4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/david/OneDrive/Documentos/4 curso/1 cuatri/Control y comunicaciones/P4/P4/out/build/x64-Debug/P4/CMakeFiles/P4.dir
+C:/Users/david/OneDrive/Documentos/4 curso/1 cuatri/Control y comunicaciones/P4/P4/out/build/x64-Debug/P4/CMakeFiles/edit_cache.dir
+C:/Users/david/OneDrive/Documentos/4 curso/1 cuatri/Control y comunicaciones/P4/P4/out/build/x64-Debug/P4/CMakeFiles/rebuild_cache.dir
